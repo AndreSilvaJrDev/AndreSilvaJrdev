@@ -1,10 +1,12 @@
 <div align="center">
 
-👋 Olá, eu sou André Silva Júnior
+<img src="./assets/github-banner.png" width="100%" alt="André Júnior Dev Banner" />
 
-Software Developer • C# • .NET • React • AI & Automation
+</div>
 
-Construindo aplicações, APIs e produtos digitais com foco em tecnologia, automação e inteligência artificial.
+<br>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=680&lines=Software+Developer;C%23+%7C+.NET+%7C+React;AI+%26+Automation;Building+products+that+solve+real+problems" alt="Typing SVG" />
 
@@ -28,7 +30,7 @@ Construindo aplicações, APIs e produtos digitais com foco em tecnologia, autom
 
 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,html,css,supabase,git,github,vscode" />
 
@@ -63,6 +65,16 @@ Stack: C# • .NET
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreSilvaJrDev/AndreSilvaJrdev/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AndreSilvaJrDev/AndreSilvaJrdev/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/github-mascot.png" width="330px" alt="André Júnior Dev Mascot" />
+
+### Code. Build. Learn. Improve. 🚀
 
 </div>
 
