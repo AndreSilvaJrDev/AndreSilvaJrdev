@@ -54,13 +54,15 @@ Projeto backend voltado para gerenciamento de informações de pets, desenvolvid
 
 Stack: C# • .NET
 
-## 📊 GitHub
+## 🐍 Contribuições
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreSilvaJrDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSilvaJrDev&layout=compact&theme=github_dark&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreSilvaJrDev/AndreSilvaJrdev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreSilvaJrDev/AndreSilvaJrdev/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AndreSilvaJrDev/AndreSilvaJrdev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
